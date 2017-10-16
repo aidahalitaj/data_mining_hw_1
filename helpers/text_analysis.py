@@ -107,3 +107,5 @@ def plot_word_cloud(text):
     plt.imshow(word_cloud, interpolation='bilinear')
     plt.axis("off")
     plt.show()
+  
+    
